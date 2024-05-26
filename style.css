@@ -46,7 +46,7 @@ h2 {
 }
 
 .paragraph-title {
-  max-width: 45%;
+  max-width: 42%;
   min-width: 311px;
   font-size: clamp(0.90rem, 0.95vw, 1rem);
   color: #4D4F62;
